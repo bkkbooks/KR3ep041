@@ -1,0 +1,1043 @@
+canonical_identifier: bkk:krp/KR3ep041/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ep041/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 鄒亦仲醫案新編
+  identifiers:
+    krp: KR3ep041
+  tags:
+    kr-categories: KR3ep
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep041.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ep041_000-jc.yaml, hash: 'sha256:f93d1eb1a31b707a4dc45bae0ed5570022d4c689d9b38928634a11537dd59b8a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ep041_000-jc.markers.yaml, hash: 'sha256:72e18bcefc0c7550867dcdf9c199e9cadab0d029575df65fc59a5c68ab7d2849'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 301
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d3.h1s1
+    span:
+    - front
+    - 301
+    - 815
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 122
+  label: 久痢傷腎陽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d5.h1s1
+    span:
+    - body
+    - 122
+    - 348
+  label: 久痢傷腎陰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d6.h1s1
+    span:
+    - body
+    - 348
+    - 552
+  label: 肝燥內傷
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d7.h1s1
+    span:
+    - body
+    - 552
+    - 634
+  label: 妊娠暈脹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d8.h1s1
+    span:
+    - body
+    - 634
+    - 1026
+  label: 肝腎俱敗逝症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d9.h1s1
+    span:
+    - body
+    - 1026
+    - 1287
+  label: 氣愆為病儼似外邪
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d10.h1s1
+    span:
+    - body
+    - 1287
+    - 1423
+  label: 濕熱下流會陰症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d11.h1s1
+    span:
+    - body
+    - 1423
+    - 1641
+  label: 冬溫失治成癰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d12.h1s1
+    span:
+    - body
+    - 1641
+    - 1907
+  label: 春溫咳甚幾成肺癰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d13.h1s1
+    span:
+    - body
+    - 1907
+    - 2064
+  label: 感冒重投麻桂傷陽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d14.h1s1
+    span:
+    - body
+    - 2064
+    - 2247
+  label: 瘡毒內陷危候
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d15.h1s1
+    span:
+    - body
+    - 2247
+    - 2664
+  label: 冬溫誤治
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d16.h1s1
+    span:
+    - body
+    - 2664
+    - 2917
+  label: 肝陽及時而熾
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d17.h1s1
+    span:
+    - body
+    - 2917
+    - 3041
+  label: 內傷肝旺土絕逝症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d18.h1s1
+    span:
+    - body
+    - 3041
+    - 3249
+  label: 暑濕留連症候
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d19.h1s1
+    span:
+    - body
+    - 3249
+    - 3474
+  label: 老痰火脈症可虞
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d20.h1s1
+    span:
+    - body
+    - 3474
+    - 3657
+  label: 中虛寒中吐瀉可危
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d21.h1s1
+    span:
+    - body
+    - 3657
+    - 3887
+  label: 喘腫不關外邪
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d22.h1s1
+    span:
+    - body
+    - 3887
+    - 4151
+  label: 嘔脹症肝脾相賊所致
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d23.h1s1
+    span:
+    - body
+    - 4151
+    - 4443
+  label: 中痰症最盛難蠲
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d24.h1s1
+    span:
+    - body
+    - 4443
+    - 4609
+  label: 痰飲暴中壅閉可危
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d25.h1s1
+    span:
+    - body
+    - 4609
+    - 5003
+  label: 腳腫至踝陽敗可嗟
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d26.h1s1
+    span:
+    - body
+    - 5003
+    - 5184
+  label: 寒濕將瘧症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d27.h1s1
+    span:
+    - body
+    - 5184
+    - 5364
+  label: 寒濕症最劇可危
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d28.h1s1
+    span:
+    - body
+    - 5364
+    - 5595
+  label: 產後脹痛肝鬱陰亡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d29.h1s1
+    span:
+    - body
+    - 5595
+    - 5931
+  label: 鬱結陰亡溫補自誤
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d30.h1s1
+    span:
+    - body
+    - 5931
+    - 6076
+  label: 暑濕挾郁釀成腫脹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d31.h1s1
+    span:
+    - body
+    - 6076
+    - 6299
+  label: 暑熱釀毒
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d32.h1s1
+    span:
+    - body
+    - 6299
+    - 6560
+  label: 出痘不嘉餘毒難清
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d33.h1s1
+    span:
+    - body
+    - 6560
+    - 6671
+  label: 瘄疹內蘊何久
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d34.h1s1
+    span:
+    - body
+    - 6671
+    - 6857
+  label: 風陽上逆於巔
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d35.h1s1
+    span:
+    - body
+    - 6857
+    - 7126
+  label: 脾約症候
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d36.h1s1
+    span:
+    - body
+    - 7126
+    - 7315
+  label: 風陽上逆成形可異
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d37.h1s1
+    span:
+    - body
+    - 7315
+    - 7436
+  label: 抑鬱驚恐將發神經
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d38.h1s1
+    span:
+    - body
+    - 7436
+    - 8104
+  label: 熱伏絡中觸之即發
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d39.h1s1
+    span:
+    - body
+    - 8104
+    - 8318
+  label: 風濕合痹症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d40.h1s1
+    span:
+    - body
+    - 8318
+    - 8453
+  label: 咳嗽狂陽莫制
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d41.h1s1
+    span:
+    - body
+    - 8453
+    - 8634
+  label: 肺熱頗類陰火
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d42.h1s1
+    span:
+    - body
+    - 8634
+    - 9294
+  label: 酒傷手痿症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d43.h1s1
+    span:
+    - body
+    - 9294
+    - 9395
+  label: 中虛將脫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d44.h1s1
+    span:
+    - body
+    - 9395
+    - 9775
+  label: 濕熱足痿化瘧方解
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d45.h1s1
+    span:
+    - body
+    - 9775
+    - 10048
+  label: 飲邪最盛症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d46.h1s1
+    span:
+    - body
+    - 10048
+    - 10565
+  label: 痢至亡陽危殆
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d47.h1s1
+    span:
+    - body
+    - 10565
+    - 10875
+  label: 痢久陰傷現象
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d48.h1s1
+    span:
+    - body
+    - 10875
+    - 11163
+  label: 痢症轉泄積滯將去
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d49.h1s1
+    span:
+    - body
+    - 11163
+    - 11348
+  label: 痢轉泄失治而逝
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d50.h1s1
+    span:
+    - body
+    - 11348
+    - 11592
+  label: 痢疾脈症俱逆可危
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d51.h1s1
+    span:
+    - body
+    - 11592
+    - 11787
+  label: 痢能多食症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d52.h1s1
+    span:
+    - body
+    - 11787
+    - 12084
+  label: 痢久脾腎兩傷症候
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d53.h1s1
+    span:
+    - body
+    - 12084
+    - 12466
+  label: 傷於驚恐立召亡陽危殆
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d54.h1s1
+    span:
+    - body
+    - 12466
+    - 12639
+  label: 溫症宜養陰以裕汗源
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d55.h1s1
+    span:
+    - body
+    - 12639
+    - 12862
+  label: 外邪內熱相釀最深
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d56.h1s1
+    span:
+    - body
+    - 12862
+    - 13180
+  label: 將成肺癰症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d57.h1s1
+    span:
+    - body
+    - 13180
+    - 13446
+  label: 邪傷陰絡儼似風痹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d58.h1s1
+    span:
+    - body
+    - 13446
+    - 13885
+  label: 時感鬱結兩相轇轕
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d59.h1s1
+    span:
+    - body
+    - 13885
+    - 14064
+  label: 暑熱症誤治危候
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d60.h1s1
+    span:
+    - body
+    - 14064
+    - 14201
+  label: 產後疏散真陽發外
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d61.h1s1
+    span:
+    - body
+    - 14201
+    - 14469
+  label: 氣鬱暑濕嘔吐症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d62.h1s1
+    span:
+    - body
+    - 14469
+    - 14766
+  label: 產後發汗真陽上戴
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d63.h1s1
+    span:
+    - body
+    - 14766
+    - 15023
+  label: 疝痛自少陽傳來症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d64.h1s1
+    span:
+    - body
+    - 15023
+    - 15142
+  label: 溫熱症亡陰危候
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d65.h1s1
+    span:
+    - body
+    - 15142
+    - 15299
+  label: 疫症假熱真寒
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d66.h1s1
+    span:
+    - body
+    - 15299
+    - 15412
+  label: 傷寒假熱真寒
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d67.h1s1
+    span:
+    - body
+    - 15412
+    - 15718
+  label: 邪熱方熾口腹未慎危候
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d68.h1s1
+    span:
+    - body
+    - 15718
+    - 16200
+  label: 肝陽最旺服溫補取敗
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d69.h1s1
+    span:
+    - body
+    - 16200
+    - 16490
+  label: 寒邪兼房事症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d70.h1s1
+    span:
+    - body
+    - 16490
+    - 16784
+  label: 伏暑晚發症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d71.h1s1
+    span:
+    - body
+    - 16784
+    - 17118
+  label: 肝風症同治異
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d72.h1s1
+    span:
+    - body
+    - 17118
+    - 17361
+  label: 汛行崩血不止症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d73.h1s1
+    span:
+    - body
+    - 17361
+    - 17643
+  label: 腎敗腹脹可危
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d74.h1s1
+    span:
+    - body
+    - 17643
+    - 18146
+  label: 腹中瘕聚肝鬱為患
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d75.h1s1
+    span:
+    - body
+    - 18146
+    - 18455
+  label: 痰火症變幻無常
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d76.h1s1
+    span:
+    - body
+    - 18455
+    - 18615
+  label: 中惡症情
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d77.h1s1
+    span:
+    - body
+    - 18615
+    - 18717
+  label: 霍亂轉筋症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d78.h1s1
+    span:
+    - body
+    - 18717
+    - 18871
+  label: 霍亂食復症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d79.h1s1
+    span:
+    - body
+    - 18871
+    - 19419
+  label: 虛癆逝症許其小愈
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d80.h1s1
+    span:
+    - body
+    - 19419
+    - 19630
+  label: 久泄症侯
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d81.h1s1
+    span:
+    - body
+    - 19630
+    - 19771
+  label: 久痢犯房
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d82.h1s1
+    span:
+    - body
+    - 19771
+    - 19961
+  label: 風水發腫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d83.h1s1
+    span:
+    - body
+    - 19961
+    - 20273
+  label: 腎虛發腫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d84.h1s1
+    span:
+    - body
+    - 20273
+    - 20366
+  label: 痰飲作喘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d85.h1s1
+    span:
+    - body
+    - 20366
+    - 20728
+  label: 邪感兼鬱症情
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d86.h1s1
+    span:
+    - body
+    - 20728
+    - 21042
+  label: 腎敗氣喘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d87.h1s1
+    span:
+    - body
+    - 21042
+    - 21235
+  label: 腎虛頭痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d88.h1s1
+    span:
+    - body
+    - 21235
+    - 21410
+  label: 勞役傷氣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d89.h1s1
+    span:
+    - body
+    - 21410
+    - 21594
+  label: 勞役重傷危候
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d90.h1s1
+    span:
+    - body
+    - 21594
+    - 21941
+  label: 肝火發狂
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d91.h1s1
+    span:
+    - body
+    - 21941
+    - 22371
+  label: 慢脾風症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d92.h1s1
+    span:
+    - body
+    - 22371
+    - 22712
+  label: 偏風波及於目
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d93.h1s1
+    span:
+    - body
+    - 22712
+    - 22823
+  label: 奇經虛損
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d94.h1s1
+    span:
+    - body
+    - 22823
+    - 22974
+  label: 毒熱內攻
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d95.h1s1
+    span:
+    - body
+    - 22974
+    - 23167
+  label: 蓐勞腹痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d96.h1s1
+    span:
+    - body
+    - 23167
+    - 23407
+  label: 腫脹將發脈象
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d97.h1s1
+    span:
+    - body
+    - 23407
+    - 23630
+  label: 惡阻症辨認
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d98.h1s1
+    span:
+    - body
+    - 23630
+    - 24067
+  label: 種子方累驗
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d99.h1s1
+    span:
+    - body
+    - 24067
+    - 24289
+  label: 頭痛將發脈象
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d100.h1s1
+    span:
+    - body
+    - 24289
+    - 24768
+  label: 暑濕將瘧延誤而逝
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d101.h1s1
+    span:
+    - body
+    - 24768
+    - 24934
+  label: 周痹症候
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d102.h1s1
+    span:
+    - body
+    - 24934
+    - 25047
+  label: 吐血有期症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep041_jc_000-d103.h1s1
+    span:
+    - body
+    - 25047
+    - 25180
+  label: 酒風戰掉
+  type: section
+  level: 1
+hash: sha256:98261b1a9a6de57df5bf5d706a4f4e8092c965ef849f509c82c8683d2247a623
