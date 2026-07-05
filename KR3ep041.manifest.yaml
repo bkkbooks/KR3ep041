@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ep041_000.yaml, hash: 'sha256:02ce1603c9e78d17760909dac6d1e0a97b2d6f3c159366effccf97565f6ec95d'}
+  - {seq: 0, filename: KR3ep041_000.yaml, hash: 'sha256:f93d1eb1a31b707a4dc45bae0ed5570022d4c689d9b38928634a11537dd59b8a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep041_000.markers.yaml, hash: 'sha256:8cb3b2f9cfeb2441c23acce774907e6baccad983ec421c61c79faeb3e14adf3c'}
+  - {seq: 0, role: markers, filename: assets/KR3ep041_000.markers.yaml, hash: 'sha256:f2c5d4c00975072eda91b444298c5129393f29650283ba6ea1b901a9af2a2859'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1040,7 +1040,4 @@ table_of_contents:
   label: 酒風戰掉
   type: section
   level: 1
-hash: sha256:162a3272968e0c36e303cb87a43f3f3046a45a653946979bece367d85d770943
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:3493049bd3b001be40bce68dc12c83bb9f7dd174dfa0f1051bc19efc978841d0
