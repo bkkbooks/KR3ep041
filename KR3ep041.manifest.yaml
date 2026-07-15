@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ep041/v1
 canonical_location: https://kanripo.org/bkk/KR3ep041/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 鄒亦仲醫案新編
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ep041_000.yaml, hash: 'sha256:f93d1eb1a31b707a4dc45bae0ed5570022d4c689d9b38928634a11537dd59b8a'}
+  - {seq: 0, filename: KR3ep041_000.yaml, hash: 'sha256:6d98af165ddbb2bedc92e3ad75a85d7d6d15010dd3b11246c6dbd4337c0035d3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep041_000.markers.yaml, hash: 'sha256:f2c5d4c00975072eda91b444298c5129393f29650283ba6ea1b901a9af2a2859'}
+  - {seq: 0, role: markers, filename: assets/KR3ep041_000.markers.yaml, hash: 'sha256:201967c2dd7a3e5315d9b5e6927f5c86fec500324bbf9568b0ea61533868eca4'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1040,4 +1040,7 @@ table_of_contents:
   label: 酒風戰掉
   type: section
   level: 1
-hash: sha256:3493049bd3b001be40bce68dc12c83bb9f7dd174dfa0f1051bc19efc978841d0
+hash: sha256:fff3b5e6f36ec6c3d64151d5690854b29668c1d37dc56f5eceec43e53e7c9342
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
